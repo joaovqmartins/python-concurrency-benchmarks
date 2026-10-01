@@ -1,0 +1,13 @@
+# Executável gerado pelo gcc (compile com: gcc -fopenmp openmp.c -o openmp)
+CPU-Bound/openmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.vscode/
+.DS_Store
+Thumbs.db
